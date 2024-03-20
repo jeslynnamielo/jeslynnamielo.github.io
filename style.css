@@ -248,7 +248,7 @@ header {
     & p {
         text-align: center;
         font-style: italic;
-        color: var(--colorgristexto);
+        color: var(--colornegro);
         line-height: 1.5;
     }
 
